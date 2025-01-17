@@ -17,8 +17,8 @@ A Chrome extension that allows you to easily redirect URLs based on custom patte
 ## Installation
 ### From Chrome Web Store
 
-~~1. Visit the [Not yet published](https://github.com/misaka-umi/URL-Redirector/edit/main/README.md) page on Chrome Web Store~~
-~~2. Click "Add to Chrome"~~
+1. ~~Visit the [Not yet published](https://github.com/misaka-umi/URL-Redirector/edit/main/README.md) page on Chrome Web Store~~
+2. ~~Click "Add to Chrome"~~
 
 ### Manual Installation (Developer Mode)
 
