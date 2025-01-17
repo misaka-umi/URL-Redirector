@@ -15,13 +15,11 @@ A Chrome extension that allows you to easily redirect URLs based on custom patte
 - 🔒 Privacy-focused: all data stored locally
 
 ## Installation
-/**
 ### From Chrome Web Store
 
-1. Visit the [URL Redirector](your-chrome-web-store-link) page on Chrome Web Store
-2. Click "Add to Chrome"
-3. Confirm the installation
-*/
+~~1. Visit the [Not yet published](https://github.com/misaka-umi/URL-Redirector/edit/main/README.md) page on Chrome Web Store~~
+~~2. Click "Add to Chrome"~~
+
 ### Manual Installation (Developer Mode)
 
 1. Clone this repository or download the ZIP file
