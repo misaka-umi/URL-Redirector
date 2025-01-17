@@ -4,7 +4,7 @@
   <img src="icon.png" alt="URL Redirector Logo" width="128" height="128">
 </p>
 
-A Chrome extension that allows you to easily redirect URLs based on custom patterns. Perfect for developers and users who need to handle URL redirections frequently.
+A Chrome extension that allows you to redirect URLs based on custom patterns easily. Perfect for developers and users who need to handle URL redirections frequently.
 
 ## Features
 
@@ -25,3 +25,6 @@ A Chrome extension that allows you to easily redirect URLs based on custom patte
 1. Clone this repository or download the ZIP file
 ```bash
 git clone https://github.com/misaka-umi/URL-Redirector.git
+```
+2. Visit the chrome://extensions/
+3. Load unpacked
